@@ -47,4 +47,6 @@ b. Data yang telah di-backup dapat di restrore kembali ke dalam database dengan 
 
 ![9](https://user-images.githubusercontent.com/101656195/173088146-b64903ca-7bf8-4e62-b8a6-c90887fbe4e5.png)
 
-crontab –e **00**7myqldump -u root -p mamat_312010082>mamat_312010082_backup.sql**
+crontab –e 
+
+00**7 myqldump -u root -p mamat_312010082>mamat_312010082_backup.sql
